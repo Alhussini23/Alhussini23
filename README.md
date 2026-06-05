@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="left">Full-Stack Developer | Python (Backend) | Frontend (HTML, CSS, JS, Angular)</h2>
+<h2 align="left">Frontend Developer(HTML, CSS, JS, Angular)</h2>
 
 ###
 
